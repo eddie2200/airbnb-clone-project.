@@ -1,10 +1,18 @@
 # airbnb-clone-project.
+## Project Overview
+AirBnB Clone Project is a full-stack web development practice project and through it I am replicating the functionality and design of the popular AirBnB platform.
 ## Project goals and objectives
 	- Learn to implement responsive UI/UX designs
 	- Understand how to structure a complex web application
 	- Practice working in a team with defined roles
 	- Develop skills in component-based frontend architecture
 	- Learn best practices for web application development
+ ## Tech Stack
+
+- HTML, CSS, JavaScript
+- React
+- Tailwind CSS
+- Git and GitHub
 
 ## UI/UX Design Planning
 
